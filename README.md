@@ -4,10 +4,7 @@ Simple CLI that generates a secure secret for you using the node crypto module.
 
 # Installation
 
-1. Clone this repository
-2. Open your terminal and navigate to the root of this project
-3. Run `npm i`
-4. Run `npm i -g .`
+To install this simply run `npm i -g secret-gen-cli`
 
 # Usage
 
