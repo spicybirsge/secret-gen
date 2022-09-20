@@ -1,0 +1,19 @@
+{
+  "name": "secret-gen-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cli", "secrets"],
+  "bin": {  
+    "generate": "./bin/index.js"  
+  },
+  "author": "Shaheer Ahamed",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
